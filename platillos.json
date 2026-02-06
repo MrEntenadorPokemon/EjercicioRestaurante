@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Pizza",
+        "descripcion": "Tomate, mozzarella fresca y pan crujiente.",
+        "precio": 150,
+        "imagen": "https://www.bareinternational.cl/wp-content/uploads/sites/4/2022/04/Untitled-design-2-300x200.png"
+    },
+    {
+        "nombre": "Pasta",
+        "descripcion": "Receta tradicional cremosa y picosa.",
+        "precio": 180,
+        "imagen": "https://pastanostrazaragoza.es/wp-content/uploads/2019/09/Portada_PastaNostra-300x200.jpeg"
+    },
+    {
+        "nombre": "Spaghetti",
+        "descripcion": "Ingredientes Naturales con sabores explosivos",
+        "precio": 160,
+        "imagen": "https://anfora.com/cdn/shop/files/POLAR_PLATO_PASTA_1_300x300.jpg?v=1769716572"
+    }
+]
