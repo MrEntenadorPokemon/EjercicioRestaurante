@@ -1,0 +1,21 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+bin/
+lib/
+include/
+
+# Caché de Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de editores (opcional)
+.vscode/
+.idea/
+.DS_Store
+
+# Archivos de variables de entorno (datos sensibles)
+.env
